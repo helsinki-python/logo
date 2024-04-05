@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" height="250" src="HelPy.svg" alt="Pillow logo">
+  <img width="250" height="250" src="HelPy.svg" alt="Helsinki Python logo">
 </p>
 
 # Helsinki Python logo
